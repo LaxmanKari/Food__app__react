@@ -1,0 +1,3 @@
+deleted .babelrc file because console's are not displaying in my browser console (in dev mode)
+
+body component has lot of responsibilities , try to export few logics and created custom hooks 
